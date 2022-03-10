@@ -4,6 +4,16 @@
 
 ---
 
+### Certificado Microsoft Data Funamentals:
+![Microsoft Azure Data Fundamentals (DP-900)](https://github.com/JhonatasMenezes/Certificados/blob/main/Microsoft%20Data%20Fundamentals.png)
+
+---
+
+### Certificado Microsoft Azure Fundamentals:
+![Microsoft Azure Fundamentals (DP-900)](https://github.com/JhonatasMenezes/Certificados/blob/main/Microsoft%20Azure%20Funadamentals%20Training%20Day.png)
+
+---
+
 ### Certificado Algoritmos pela plataforma Curso em Vídeo:
 ![Algoritmos - Curso em Vídeo](https://github.com/JhonatasMenezes/Certificados-certifications-/blob/main/Algoritmos%20-%20Curso%20em%20V%C3%ADdeo.png)
 

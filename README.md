@@ -4,6 +4,11 @@
 
 ---
 
+### Certificado Bootcamp Coding The Future - Python AI Backend Developer:
+![Python AI Backend Developer](https://github.com/JhonatasMenezes/Certificados/blob/main/Bootcamp%20DIO%20Python%20AI.webp)
+
+---
+
 ### Certificado Microsoft Data Funamentals:
 ![Microsoft Azure Data Fundamentals (DP-900)](https://github.com/JhonatasMenezes/Certificados/blob/main/Microsoft%20Data%20Fundamentals.png)
 
